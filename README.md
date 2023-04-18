@@ -1,2 +1,2 @@
 # ToDoList-App
-My first github project.
+My First GitHub Project.
